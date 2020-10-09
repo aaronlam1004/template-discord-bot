@@ -1,0 +1,2 @@
+**You can use various text files to do a lot to interact with the bot!**
+__For example you can use it to keep documentation like this so that it can write out later.__

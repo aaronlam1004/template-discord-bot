@@ -1,0 +1,8 @@
+{
+	"message": "This is where you can store settings.",
+	"token": "YOUR BOT TOKEN HERE",
+	"documentation": [
+		"**You can use the config.json file to do a lot to interact with the bot!**",
+		"__For example you can use it to keep documentation like this so that it can write out later.__"
+	]
+}
