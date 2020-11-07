@@ -40,7 +40,7 @@ python bot.py
 ## Additional Resources
 Additionally resources for when you are making your bots:
 
-**Javascript developers**:
+**JavaScript developers**:
 - [Basic Tutorial](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js)
 - [Discord.JS API](https://discord.js.org/#/docs/main/stable/general/welcome)
 
